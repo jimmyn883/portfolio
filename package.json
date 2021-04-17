@@ -8,7 +8,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-ga": "^2.3.5",
-    "react-scripts": "1.0.17"
+    "react-scripts": "^4.0.3"
   },
   "homepage": "https://tools-trade-va-sp1.github.io/portfolio",
   "scripts": {
@@ -18,5 +18,17 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
