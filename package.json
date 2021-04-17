@@ -10,7 +10,7 @@
     "react-ga": "^2.3.5",
     "react-scripts": "^4.0.3"
   },
-  "homepage": "https://tools-trade-va-sp1.github.io/portfolio",
+  "homepage": "https://jimmyn883.github.io/portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
